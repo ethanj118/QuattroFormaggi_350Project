@@ -16,3 +16,29 @@ This folder contains a copy of our infrastructure diagram, as well as any other 
 
 *Raw Data*
 This folder contains a copy of raw data used for our project.
+
+### Amazon Services Used
+
+Certain Amazon services were used in this project. More detail is in the blog, but basic information can be found here.
+
+*[Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/?id=docs_gateway)*
+
+Amazon SageMaker serves as a platform to use Machine Learning models. SageMaker can also run Jupyter notebooks and terminal instances.
+
+*[Amazon S3](https://docs.aws.amazon.com/s3/index.html)*
+
+Amazon S3 provides storage services. Files stored in buckets can be accessed when using other Amazon services.
+
+[Use documentation](https://docs.aws.amazon.com/s3/index.html)
+
+*[Amazon IAM](https://docs.aws.amazon.com/iam/?id=docs_gateway)*
+
+Amazon Identity and Access Management (IAM) provides ways to secure files and Amazon services so that only certain users (or groups of users) can access them.
+
+[Use documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+
+*[Amazon Rekognition](https://docs.aws.amazon.com/rekognition/?id=docs_gateway)*
+
+Amazon Rekognition is the main Amazon ML service used in this project. Rekognition can analyze pictures and return a prediction of the features and elements in the pictures. 
+
+[Use documentation](https://docs.aws.amazon.com/rekognition/latest/dg/getting-started.html)
