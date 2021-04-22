@@ -7,7 +7,7 @@ Final project repo for Quattro Formaggi
 
 *Blog:*
 
-This section contains a link to the blog we created for this project.
+This section contains a link to the blog we created for this project, as well as images and screenshots used in the blog.
 
 *Python Notebooks:*
 
