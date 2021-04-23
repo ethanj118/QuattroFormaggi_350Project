@@ -9,6 +9,8 @@ Final project repo for Quattro Formaggi
 
 This section contains a link to the blog we created for this project, as well as images and screenshots used in the blog.
 
+A link to the blog can also be found here:
+
 *Python Notebooks:*
 
 This folder contains Python notebooks that we used for this project, whether for data analysis, creating blogs or markdown pages, or organizing data.
