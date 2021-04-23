@@ -46,3 +46,7 @@ Amazon Identity and Access Management (IAM) provides ways to secure files and Am
 Amazon Rekognition is the main Amazon ML service used in this project. Rekognition can analyze pictures and return a prediction of the features and elements in the pictures. 
 
 [Use documentation](https://docs.aws.amazon.com/rekognition/latest/dg/getting-started.html)
+
+## **Replication**
+
+For replication of this project, the AWS services listed above are necessary. It is recommended to clone this repository and open the notebooks in SageMaker.
