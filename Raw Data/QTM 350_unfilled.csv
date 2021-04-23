@@ -1,0 +1,21 @@
+﻿Images,Happy,Confused,Calm,Sad,Fear,Angry,Surprised,Disgusted,Our correct guess,Rekognition's correct guess,Answer
+IMG_1042.jpg,0,25,0,75,0,0,0,0,75,,Sad
+IMG_1043.jpg,25,0,75,0,0,0,0,0,75,,Calm
+IMG_1045.jpg,0,25,50,25,0,0,0,0,25,,Confused
+IMG_1046.jpg,25,0,0,0,25,25,0,25,0,,Confused
+IMG_1047.jpg,25,0,0,0,0,0,75,0,75,,Surprised
+IMG_1055.jpg,0,25,0,50,25,0,0,0,0,,Surprised
+IMG_1056.jpg,0,25,0,75,0,0,0,0,25,,Confused
+IMG_1057.jpg,0,0,0,0,0,50,0,50,50,,Disgusted
+IMG_1058.jpg,25,0,0,0,0,0,75,0,25,,Happy
+IMG_1059.jpg,25,25,0,0,0,0,50,0,0,,Calm
+IMG_1060.jpg,0,0,0,0,100,0,0,0,100,,Fear
+IMG_1061.jpg,0,0,0,0,0,50,0,50,50,,Disgusted
+IMG_1062.jpg,0,0,100,0,0,0,0,0,100,,Calm
+IMG_1063.jpg,25,0,0,0,0,0,75,0,25,,Surprised
+IMG_1064.jpg,0,25,25,25,0,0,25,0,25,,Sad
+IMG_1065.jpg,0,0,0,25,25,25,0,25,25,,Angry
+IMG_1066.jpg,0,50,25,25,0,0,0,0,25,,Sad
+IMG_1067.jpg,0,0,0,0,0,100,0,0,100,,Angry
+IMG_1068.jpg,0,0,0,100,0,0,0,0,100,,Sad
+IMG_1069.jpg,0,0,0,25,75,0,0,0,75,,Fear
