@@ -9,7 +9,7 @@ Final project repo for Quattro Formaggi
 
 This section contains a link to the blog we created for this project, as well as images and screenshots used in the blog.
 
-A link to the blog can also be found here:
+A link to the blog can also be found here: [link](https://project-blog-final.s3.amazonaws.com/Project_Blog_Final.html)
 
 *Python Notebooks:*
 
